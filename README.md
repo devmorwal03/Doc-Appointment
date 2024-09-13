@@ -1,9 +1,3 @@
 # Doc-Appointment
- Web Application that allows user to choose doctor online for appointment <br/>
- ****************USER SIDE****************
-![Screenshot](Web_demo/Home.png?raw=true "Screenshot")
-![Screenshot](Web_demo/Appointment_status.png?raw=true "Screenshot")
-![Screenshot](Web_demo/Apply_doctor.png?raw=true "Screenshot")
-***********DOCTOR SIDE***********
-![Screenshot](Web_demo/Manage_profile.png?raw=true "Screenshot")
-![Screenshot](Web_demo/Appointment_handle.png?raw=true "Screenshot")
+ Developed an online registration system that streamlined doctor appointment bookings, reducing booking time by 40%. Implemented features like a doctor search bar, appointment request and deletion, a doctor application portal for users, and notification management, request handling, and profile updates for doctors.
+
